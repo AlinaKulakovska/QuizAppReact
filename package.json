@@ -1,7 +1,7 @@
 {
   "name": "iq-test",
   "version": "0.1.0",
-  "homepage" : "https://https://alinakulakovska.github.io/QuizAppReact",
+  "homepage" : "https://alinakulakovska.github.io/QuizAppReact",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
