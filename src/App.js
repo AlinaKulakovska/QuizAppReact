@@ -9,6 +9,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
+      <Route exact path='/' render={<Main />}/>
         <Route index element={<Main />} />
         <Route path="/quizes" element={<Quizes />} />
         <Route path="/results" element={<Results />} />
