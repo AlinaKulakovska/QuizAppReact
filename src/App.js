@@ -16,10 +16,10 @@ function App() {
 //       </Routes>
 //     </BrowserRouter>
 
-<Router basename="/quizes"> //add basename
+<Router basename="/QuizAppReact"> //add basename
       <Switch>
         <Route path='/' exact component={Main} />
-        <Route path='/results' component={Results} />
+        <Route path='/quizes' component={Quizes} />
       </Switch>
 </Router>
   );
