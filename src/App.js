@@ -9,12 +9,12 @@ import { HashRouter } from 'react-router-dom';
 function App() {
   return (
     <HashRouter >
-      <Routes>
+//       <Routes>
       <Route exact path='/' render={<Main />} basename={process.env.PUBLIC_URL}/>
         <Route index element={<Main />} />
         <Route path="/quizes" element={<Quizes />} />
         <Route path="/results" element={<Results />} />
-      </Routes>
+//       </Routes>
     </HashRouter >
 
 
