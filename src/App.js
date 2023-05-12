@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-      <Route exact path='/' render={<Main />}/>
+      <Route exact path='/' render={<Main />} basename={process.env.PUBLIC_URL}/>
         <Route index element={<Main />} />
         <Route path="/quizes" element={<Quizes />} />
         <Route path="/results" element={<Results />} />
