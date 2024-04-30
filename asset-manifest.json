@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/QuizAppReact/static/css/main.03fce7ce.css",
-    "main.js": "/QuizAppReact/static/js/main.9acc9667.js",
+    "main.js": "/QuizAppReact/static/js/main.6a0e4aa4.js",
     "static/js/787.f4e0eb2b.chunk.js": "/QuizAppReact/static/js/787.f4e0eb2b.chunk.js",
     "static/media/space.png": "/QuizAppReact/static/media/space.db24e2a85c51cf8523de.png",
     "static/media/image.png": "/QuizAppReact/static/media/image.8b7baafd101271109ee3.png",
@@ -10,11 +10,11 @@
     "static/media/QuestionIMG.png": "/QuizAppReact/static/media/QuestionIMG.39f56e0d5862fc61c5a9.png",
     "index.html": "/QuizAppReact/index.html",
     "main.03fce7ce.css.map": "/QuizAppReact/static/css/main.03fce7ce.css.map",
-    "main.9acc9667.js.map": "/QuizAppReact/static/js/main.9acc9667.js.map",
+    "main.6a0e4aa4.js.map": "/QuizAppReact/static/js/main.6a0e4aa4.js.map",
     "787.f4e0eb2b.chunk.js.map": "/QuizAppReact/static/js/787.f4e0eb2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03fce7ce.css",
-    "static/js/main.9acc9667.js"
+    "static/js/main.6a0e4aa4.js"
   ]
 }
