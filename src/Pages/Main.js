@@ -8,7 +8,6 @@ import Space from './assets/space.png';
 
 import React, { useState } from "react";
 import { Outlet, Link } from "react-router-dom";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import '../App.css'
 

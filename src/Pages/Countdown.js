@@ -1,10 +1,6 @@
-import React, { useState, useRef, useEffect } from 'react'
-import Results from './Results'
+import React from 'react'
 
 function Countdown (){
-  
-   
-  
   
     return (
         <div className="timer">
